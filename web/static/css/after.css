@@ -1,0 +1,18 @@
+.draw{
+    border: 1px solid black;
+    position: absolute;
+    z-index: 100;
+}
+.inp_svg{
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    z-index: 120;
+    border: none;
+    background-color: rgba(97, 221, 82, 0.4);
+    color: rgb(0, 0, 0)
+}
+.btn{
+    font-family: 'Geologica', sans-serif;
+    margin-top: 15px;
+}
